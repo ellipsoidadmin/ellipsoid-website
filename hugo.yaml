@@ -1,0 +1,56 @@
+baseURL: "https://www.ellipsoidtechnologies.com/"
+theme: "business-theme"
+languageCode: "en-us"
+
+title: "Ellipsoid Technologies"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Ellipsoid Technologies"
+  description: "Elevating businesses through innovative IT solutions and strategic consulting."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "544 Tala Sabar Sahi, Gadakana, Mancheswar Railway Colony, Bhubaneswar, Odisha - 751017"
+
+  contact:
+    - "admin@ellipsoidtechnologies.com"
+
+  copyright: "© 2024 Ellipsoid Technologies All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "#"
+      weight: 1
+
+  buttons:
+    - name: "Book a call"
+      url: "#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      weight: 1
+
+taxonomies:
+  series: "series"
+  tags: "tags"

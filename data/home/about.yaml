@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Specialized IT consulting."
+  text: "As a premier eCommerce, fleet management and logistics consulting firm, we specialize in developing advanced applications tailored to optimize operations. Our expertise ensures cost-effective solutions and strategic insights for comprehensive control over your mobile assets."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "#"
+
